@@ -34,7 +34,7 @@ Official Implementation For Paper Intrinsic Appearance Decomposition Using Point
 
 ## Evaluation
 
-- Run test.py to decompose the albedo and shading. (We provide example data in folder: Data)
+- Run 'test.py' to decompose the albedo and shading. (We provide example data in folder: Data)
 
 ## Pre-trained Model
 
