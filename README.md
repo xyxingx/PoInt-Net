@@ -1,5 +1,5 @@
-# PoInt-Net (CV4Metaverse Workshop @ ICCV 2023)
-Official Implementation For Paper Intrinsic Appearance Decomposition Using Point Cloud Representation
+# PoInt-Net 
+ICCV 2023, CV4Metaverse Workshop: Intrinsic Appearance Decomposition Using Point Cloud Representation (Official PyTorch Implementation)
 
 ## News
 
