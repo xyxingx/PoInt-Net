@@ -1,6 +1,12 @@
 # PoInt-Net (CV4Metaverse Workshop @ ICCV 2023)
 Official Implementation For Paper Intrinsic Appearance Decomposition Using Point Cloud Representation
 
+## News:
+
+[08, Sept. 2023] The code is released.
+
+[16, Aug. 2023] Our work is accepted by the CV4Metaverse workshop, ICCV 2023.
+
 ![pipeline](Front_img.png)
 
 ## Requirements
