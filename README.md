@@ -5,7 +5,7 @@ ICCV 2023, CV4Metaverse Workshop: Intrinsic Appearance Decomposition Using Point
 
 [08, Sept. 2023] The code is released.
 
-[16, Aug. 2023] Our work is accepted by the CV4Metaverse workshop, ICCV 2023.
+[16, Aug. 2023] Our work (short paper) is accepted by the CV4Metaverse workshop, ICCV 2023.
 
 ![pipeline](Front_img.png)
 
