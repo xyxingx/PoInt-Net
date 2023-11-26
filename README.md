@@ -1,7 +1,5 @@
 # PoInt-Net 
 
-## News
-
 
 ![pipeline](Front_img.png)
 
