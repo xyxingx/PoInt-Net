@@ -3,7 +3,7 @@
 """
 Created on Thu Sep 29 17:29:45 2022
 
-@author: Submisson 2847 ICCV
+@author:  Submission 13067 CVPR
 """
 
 import numpy as np
