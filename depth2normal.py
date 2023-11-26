@@ -5,7 +5,7 @@ Created on Thu Oct 27 16:35:40 2022
 
 gen_normal2
 
-@author: Submisson 2847 ICCV
+@author: Submission 13067 CVPR
 """
 
 import torch
