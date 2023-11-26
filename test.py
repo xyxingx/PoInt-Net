@@ -1,10 +1,10 @@
 """
-All copyright resevered!
+All copyright reserved!
 Only for reviewing
 
 DO NOT SHARE!
 
-Author of paper 2847
+ Submission 13067 CVPR
 """
 
 from __future__ import print_function
