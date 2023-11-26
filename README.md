@@ -1,11 +1,7 @@
 # PoInt-Net 
-ICCV 2023, CV4Metaverse Workshop: Intrinsic Appearance Decomposition Using Point Cloud Representation (Official PyTorch Implementation)
 
 ## News
 
-[08, Sept. 2023] The code is released.
-
-[16, Aug. 2023] Our work (short paper) is accepted by the CV4Metaverse workshop, ICCV 2023.
 
 ![pipeline](Front_img.png)
 
@@ -40,18 +36,5 @@ ICCV 2023, CV4Metaverse Workshop: Intrinsic Appearance Decomposition Using Point
 
 We provide pre-trained models in the pre_trained_model folder.
 
-## Acknowledgement:
-
-This work is funded by Bosch Center for Artificial Intelligence. If you find the work helps you, please consider citing the paper.
 
 
-```latex
-
-@inproceedings{xing2023intrinsic,
-  title={Intrinsic Appearance Decomposition Using Point Cloud Representation},
-  author={Xing, Xiaoyan and Groh, Konrad and Karaoglu, Sezer and Gevers, Theo},
-  booktitle={ICCVW},
-  year={2023}
-}
-
-```
